@@ -2,8 +2,6 @@
 
 Quatre [skills Claude Code](https://code.claude.com/docs/en/skills) pour les fondateurs et indépendants qui construisent leur application sans être développeurs. Ils encadrent les moments qui comptent (cadrer, dessiner, vérifier, mettre en ligne) pour qu'ils se déroulent toujours de la même façon.
 
-Ils viennent de la [formation Claude Code de A à Z](https://sycode.fr/formations/prendre-en-main-claude-code), où chacun est expliqué et utilisé sur une application construite de bout en bout.
-
 ## Les quatre skills
 
 | Skill | Quand il se déclenche | Ce qu'il fait | Ce qu'il produit |
@@ -45,7 +43,7 @@ Lis toujours un skill que tu n'as pas écrit avant de l'installer, celui-ci comp
 
 - L'en-tête (entre les deux lignes `---`) doit rester au tout début du fichier.
 - Pour changer une règle, par exemple tes propres interdits de design, modifie le `SKILL.md` ou `liste-noire.md`. Une règle qui doit s'appliquer à coup sûr se met plutôt dans une permission ou un hook.
-- `revue-avant-mise-en-ligne` lit les checklists qu'il trouve dans `docs/` (`checklist-securite.md`, `checklist-legale.md`, `checklist-mise-en-ligne.md`, `checklist-passage-en-live.md`). Sans elles, il s'appuie sur sa propre liste. Les checklists complètes font partie du kit de la [formation](https://sycode.fr/formations/prendre-en-main-claude-code).
+- `revue-avant-mise-en-ligne` lit les checklists qu'il trouve dans `docs/` (`checklist-securite.md`, `checklist-legale.md`, `checklist-mise-en-ligne.md`, `checklist-passage-en-live.md`). Sans elles, il s'appuie sur sa propre liste.
 
 ## Limites
 
